@@ -1,0 +1,30 @@
+.root{
+    
+}
+.press-b{
+    border-radius: 10%;
+    position: fixed;
+    bottom:10%;
+    color:rgba(0,0,0,0);
+    backdrop-filter:blur(30px);
+}
+#foward{
+    right:10%;
+}
+#backward{
+    right:90%;
+}
+#canva{
+    /*height:75% !important;
+    width:75% !important;*/
+    /*align-items:center;*/
+}
+#think{
+    color:blue;
+    text-decoration:none;
+    border-radius:20px;
+}
+#think:hover{
+    color:red;
+    text-decoration:underline;
+}
